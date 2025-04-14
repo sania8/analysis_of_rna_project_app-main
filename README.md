@@ -5,4 +5,3 @@ Steps to use the project
 4. use "python -m streamlit run app.py" to run the app
 5. click on browse files to browse the files and attach the downlaoded file
 6. The results will be generated after the file is loaded .
-The link of the app : https://analysisofrnaproject.streamlit.app/
